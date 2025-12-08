@@ -73,3 +73,114 @@ Each row represents one century:
 
 ## ⭐ **Data Model Structure (Star Schema)**  
 
+> Data Model Screenshot  
+![Data Model](Assets/Data_Model.png)
+
+---
+
+# 📊 Dashboard Sections  
+
+---
+
+# 🏏 1. Player Profile Overview  
+This section displays Kohli’s core metrics in one consolidated frame.
+
+> Screenshot:  
+![Player Profile](Assets/Player_Profile.png)
+
+### **Metrics Displayed**
+| Metric | Value |
+|--------|--------|
+| Full Name | Virat Kohli |
+| Born | 05 Nov 1988, Delhi |
+| Role | Top Order Batter |
+| Batting Style | Right-Hand Bat |
+| Total Runs | 11,703 |
+| Total Innings | 150 |
+| Avg. Strike Rate | 103.58 |
+| Avg. Team Total | 335.57 |
+| MOTM Count | 53 |
+| Not Out | 30 |
+| Captain | 46 |
+| Wins | 65 |
+
+**Insight:** Kohli maintains elite consistency with high strike rates, match-winning knocks, and significant contributions while leading the team.
+
+---
+
+# 📊 2. Opposition, Captaincy & Win Analysis  
+
+> Screenshot:  
+![Performance Insights](Assets/Performance_Insights.png)
+
+---
+
+## 🔹 **Century Count by Opposition (Treemap)**  
+Kohli scores the most centuries against:
+
+- **Australia – 17**  
+- **Sri Lanka – 15**  
+- **West Indies – 12**  
+- **South Africa – 9**  
+- **New Zealand – 9**  
+- **England – 8**
+
+**Insight:** Kohli performs best against top-tier and historically competitive teams.
+
+---
+
+## 🔹 **Centuries as Captain (Donut Chart)**  
+- **46 centuries** as Captain (50.55%)  
+- **45 centuries** as Non-Captain (49.45%)
+
+**Insight:** Captaincy did *not* reduce his batting performance — he remained equally dominant.
+
+---
+
+## 🔹 **Winning as Captain (Bar Chart)**  
+Most of his centuries result in victories:
+
+- **Wins:** 65+  
+- **Loss:** ~15  
+- **Draw / Tie:** Rare  
+
+**Insight:** Kohli’s centuries are highly correlated with match success.
+
+---
+
+## 🔹 **Format-Wise Wins When Kohli Scores a Century**
+| Format | Wins |
+|--------|-------|
+| ODI | 52 |
+| Test | 30 |
+| T20 | 8 |
+| T20I | 1 |
+
+**Insight:** ODI remains his strongest format, but his Test centuries also contribute heavily to wins.
+
+---
+
+# 🔍 Key Insights Summary  
+✔ Performs best vs strong nations (especially Australia & Sri Lanka)  
+✔ Captaincy does *not* negatively impact batting output  
+✔ Majority of centuries lead directly to team wins  
+✔ ODI is his most dominant scoring format  
+✔ Shows strong match-winning influence in leadership role  
+
+---
+
+# 🛠️ Tools Used  
+
+| Tool | Purpose |
+|------|---------|
+| **Power BI Desktop** | Dashboard creation & visuals |
+| **Power Query** | Data cleaning & transformation |
+| **DAX** | KPIs, calculated measures, filters |
+| **Excel / CSV** | Raw data preparation |
+
+---
+
+# 📂 Recommended Repository Structure  
+
+
+
