@@ -190,7 +190,7 @@ You are free to use, modify, and distribute this project with proper attribution
 # 📬 Contact  
 **Kushal Bhatt**    
 🔗 GitHub: https://github.com/kushalbhatt08  
-🔗 LinkedIn:[ your LinkedIn link](https://www.linkedin.com/in/kushal-bhatt08/)
+🔗 LinkedIn:(https://www.linkedin.com/in/kushal-bhatt08/)
 
 
 
