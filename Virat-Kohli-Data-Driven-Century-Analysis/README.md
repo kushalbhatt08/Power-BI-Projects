@@ -4,8 +4,8 @@
 ---
 
 ## 🖼️ Dashboard Preview  
-> Replace with your screenshot  
-![Dashboard Preview](Assets/Dashboard_Main.png)
+<img width="1517" height="841" alt="image" src="https://github.com/user-attachments/assets/8dfd1842-5eee-4b19-8788-08117bbabe6e" />
+
 
 ---
 
