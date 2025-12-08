@@ -183,4 +183,18 @@ Most of his centuries result in victories:
 # 📂 Recommended Repository Structure  
 
 
+---
+
+# 📄 License  
+This project is released under the **MIT License** (or choose your preferred license).
+
+---
+
+# 📬 Contact  
+**Kushal Bhatt**  
+📧 your email here  
+🔗 GitHub: https://github.com/kushalbhatt08  
+🔗 LinkedIn: your LinkedIn link
+
+
 
