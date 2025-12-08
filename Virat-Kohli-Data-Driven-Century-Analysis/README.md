@@ -181,8 +181,9 @@ Most of his centuries result in victories:
 
 ---
 
-# 📄 License  
-This project is released under the **MIT License** (or choose your preferred license).
+## 📄 License
+This project is released under the MIT License.  
+You are free to use, modify, and distribute this project with proper attribution.
 
 ---
 
