@@ -73,8 +73,7 @@ Each row represents one century:
 
 ## ⭐ **Data Model Structure (Star Schema)**  
 
-> Data Model Screenshot  
-![Data Model](Assets/Data_Model.png)
+<img width="766" height="421" alt="image" src="https://github.com/user-attachments/assets/a3aa097e-62f2-47b4-93f3-410fdc5d6c9b" />
 
 ---
 
