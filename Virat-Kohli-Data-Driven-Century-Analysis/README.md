@@ -84,8 +84,8 @@ Each row represents one century:
 # 🏏 1. Player Profile Overview  
 This section displays Kohli’s core metrics in one consolidated frame.
 
-> Screenshot:  
-![Player Profile](Assets/Player_Profile.png)
+<img width="1201" height="367" alt="image" src="https://github.com/user-attachments/assets/ca6c4f67-d826-43a7-8b61-c1d64512a9c9" />
+
 
 ### **Metrics Displayed**
 | Metric | Value |
@@ -109,8 +109,8 @@ This section displays Kohli’s core metrics in one consolidated frame.
 
 # 📊 2. Opposition, Captaincy & Win Analysis  
 
-> Screenshot:  
-![Performance Insights](Assets/Performance_Insights.png)
+<img width="1186" height="358" alt="image" src="https://github.com/user-attachments/assets/20f49eec-f719-4f04-9563-9a2064cc803f" />
+
 
 ---
 
@@ -179,9 +179,6 @@ Most of his centuries result in victories:
 
 ---
 
-# 📂 Recommended Repository Structure  
-
-
 ---
 
 # 📄 License  
@@ -190,10 +187,9 @@ This project is released under the **MIT License** (or choose your preferred lic
 ---
 
 # 📬 Contact  
-**Kushal Bhatt**  
-📧 your email here  
+**Kushal Bhatt**    
 🔗 GitHub: https://github.com/kushalbhatt08  
-🔗 LinkedIn: your LinkedIn link
+🔗 LinkedIn:[ your LinkedIn link](https://www.linkedin.com/in/kushal-bhatt08/)
 
 
 
