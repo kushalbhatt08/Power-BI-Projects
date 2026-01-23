@@ -4,9 +4,11 @@
 
 ---
 
+
 ## 🖼️ Dashboard Preview
 
-<img src="Report.png" alt="Financial Analysis Dashboard" width="100%" />
+![Financial Analysis Dashboard](Report.png)
+
 
 
 ---
