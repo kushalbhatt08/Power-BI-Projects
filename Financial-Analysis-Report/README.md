@@ -7,9 +7,9 @@
 
 ## 🖼️ Dashboard Preview
 
-![Financial Analysis Dashboard](Report.png)
+## 🖼️ Dashboard Preview
 
-
+<img width="1517" height="841" alt="Financial Analysis Dashboard" src="https://github.com/user-attachments/assets/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX" />
 
 ---
 
