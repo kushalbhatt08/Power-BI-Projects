@@ -6,7 +6,7 @@
 
 ## 🖼️ Dashboard Preview
 
-<img width="1533" height="841" alt="Financial Analysis Dashboard" src="Report.png" />
+<img src="Report.png" alt="Financial Analysis Dashboard" width="100%" />
 
 ---
 
