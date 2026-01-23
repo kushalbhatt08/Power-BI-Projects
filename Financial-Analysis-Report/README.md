@@ -1,14 +1,6 @@
 # 💰 Financial Analysis Report Dashboard
 
 *A Power BI dashboard analysing sales performance, cost efficiency, profitability, and business drivers across products, segments, and countries.*
-
----
-
-
-## 🖼️ Dashboard Preview
-
-<img width="1517" height="841" alt="image" src="https://github.com/user-attachments/assets/..." />
-
 ---
 
 ## 📌 Overview
