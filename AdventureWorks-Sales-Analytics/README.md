@@ -193,42 +193,32 @@ Revenue per customer, unique customer count, income-level donut chart, occupatio
 ---
 
 ## 📁 Project Structure
-
 ```
-AdventureWorks-PowerBI/
+AdventureWorks-Sales-Analytics/
 │
 ├── AdventureWorks_Report.pbix    # Main Power BI file
 ├── README.md                     # This file
-│
-├── data/                         # Source CSV files
-│   ├── AdventureWorks_Sales_*.csv
-│   ├── AdventureWorks_Returns.csv
-│   ├── AdventureWorks_Customers.csv
-│   ├── AdventureWorks_Products.csv
-│   ├── AdventureWorks_Product_Subcategories.csv
-│   ├── AdventureWorks_Product_Categories.csv
-│   ├── AdventureWorks_Territories.csv
-│   └── AdventureWorks_Calendar.csv
-│
-└── screenshots/
-    ├── dashboard.png
+└── Images/
+    ├── Dashboard.png
+    ├── data_model.png
     ├── map.png
-    ├── product_detail.png
-    ├── customer_detail.png
-    └── data_model.png
+    ├── customer detail.png
+    └── product detail.png
 ```
 
----
+## 🙌 Let's Connect & Collaborate
 
-## 🚀 How to Run
+If you made it this far-thank you for taking the time to explore this project! 😊
 
-1. Clone or download this repository
-2. Open `AdventureWorks_Report.pbix` in **Power BI Desktop**
-3. If prompted, update the data source path to point to your local `/data/` folder
-4. Click **Refresh** to reload all tables
-5. Explore the 4 report pages using the tab navigation at the bottom
+This is part of my ongoing journey to grow as a **Data BI Analyst**, and I'm always looking to improve.
 
----
+💬 **I'd love to hear from you:**
+- Found a better DAX formula? **Tell me!**
+- Have feedback on the report design? **I'm all ears!**
+- Want to collaborate on a data project? **Let's talk!**
 
-*Built as part of a structured Power BI learning path covering Sections 3–6: Connecting & Shaping Data, Creating a Data Model, Calculated Fields with DAX, and Visualizing Data with Reports.*
+📩 Feel free to **open an issue**, **fork the repo**, or reach out directly-all feedback, suggestions, and contributions are genuinely welcome.
+
+> *"Data is the new oil -but only if you know how to refine it."*
+
 
