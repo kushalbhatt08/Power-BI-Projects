@@ -71,7 +71,7 @@ After loading clean tables, a proper **star schema** data model was built in the
 
 ### Data Model Diagram:
 
-![Data Model](screenshots/data_model.png)
+![Data Model](Images/data_model.png)
 
 > Star schema with `Sales Data` and `Returns Data` as fact tables, surrounded by 6 dimension/lookup tables.
 
