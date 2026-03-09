@@ -178,8 +178,7 @@ Selected product KPI gauges (Orders vs Target, Revenue vs Target, Profit vs Targ
 ### 4. 👥 Customer Detail
 Revenue per customer, unique customer count, income-level donut chart, occupation donut chart, top customer spotlight card, and a weekly customers line chart.
 
-AdventureWorks-Sales-Analytics/Images/product%20detail.png
----
+![Customer Detail](Images/customer%20detail.png)---
 
 ## Tools & Technologies
 
