@@ -163,22 +163,22 @@ The final phase focused on building a polished, interactive multi-page report.
 ### 1. 📊 Executive Dashboard
 High-level KPIs, weekly revenue trend line with forecast, monthly KPI cards, orders-by-category bar chart, and a product performance table with return rate highlighting.
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Images/Dashboard.png)
 
 ### 2. 🗺️ Map View
 Bing Maps visual with bubble markers sized by order volume. Continent slicer buttons (Europe, North America, Pacific) filter the map in real time.
 
-![Map](screenshots/map.png)
+![Map](Images/map.png)
 
 ### 3. 📦 Product Detail (Drill-through)
 Selected product KPI gauges (Orders vs Target, Revenue vs Target, Profit vs Target), profit trend area chart, and returns trend chart.
 
-![Product Detail](screenshots/product_detail.png)
+![Product Detail](Images/product detail.png)
 
 ### 4. 👥 Customer Detail
 Revenue per customer, unique customer count, income-level donut chart, occupation donut chart, top customer spotlight card, and a weekly customers line chart.
 
-![Customer Detail](screenshots/customer_detail.png)
+![Customer Detail](Images/customer detail.png)
 
 ---
 
