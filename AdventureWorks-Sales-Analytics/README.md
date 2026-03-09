@@ -173,12 +173,12 @@ Bing Maps visual with bubble markers sized by order volume. Continent slicer but
 ### 3. 📦 Product Detail (Drill-through)
 Selected product KPI gauges (Orders vs Target, Revenue vs Target, Profit vs Target), profit trend area chart, and returns trend chart.
 
-![Product Detail](Images/productdetail.png)
+![Product Detail](Images/product-detail.png)
 
 ### 4. 👥 Customer Detail
 Revenue per customer, unique customer count, income-level donut chart, occupation donut chart, top customer spotlight card, and a weekly customers line chart.
 
-![Customer Detail](Images/customerdetail.png)
+![Customer Detail](Images/customer-detail.png)
 
 ---
 
