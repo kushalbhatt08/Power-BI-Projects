@@ -1,4 +1,4 @@
-# 🚴 AdventureWorks Sales Analytics — Power BI Dashboard
+# 🚴 AdventureWorks Sales Analytics Dashboard
 
 A full-cycle Power BI project built on the **AdventureWorks** dataset, covering everything from raw data ingestion to an interactive, multi-page business intelligence report. This project demonstrates end-to-end skills in data transformation, relational modelling, DAX calculations, and professional report design.
 
@@ -33,8 +33,6 @@ This project walks through the complete Power BI workflow across **4 major phase
 
 ## Section 1 — Connecting & Shaping Data
 
-> **35 lessons | 3hr 12min**
-
 This phase focuses on connecting Power BI to raw source files and transforming them into clean, analysis-ready tables using **Power Query Editor**.
 
 ### What was done:
@@ -54,8 +52,6 @@ This phase focuses on connecting Power BI to raw source files and transforming t
 ---
 
 ## Section 2 — Creating the Data Model
-
-> **26 lessons | 1hr 44min**
 
 After loading clean tables, a proper **star schema** data model was built in the Model View.
 
@@ -82,8 +78,6 @@ After loading clean tables, a proper **star schema** data model was built in the
 ---
 
 ## Section 3 — Calculated Fields with DAX
-
-> **44 lessons | 3hr 56min**
 
 DAX (Data Analysis Expressions) was used to build a rich library of calculated columns and measures stored in the **Measure Table**.
 
@@ -145,8 +139,6 @@ Monthly Revenue = CALCULATE([Total Revenue], DATESMTD(Calendar_Lookup[Date]))
 ---
 
 ## Section 4 — Visualizing Data with Reports
-
-> **58 lessons | 4hr 12min**
 
 The final phase focused on building a polished, interactive multi-page report.
 
