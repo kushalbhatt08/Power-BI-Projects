@@ -63,7 +63,3 @@ Retail sales dashboard covering:
 
 ---
 
-## 🚀 How to Use
-
-```{bash}
-git clone https://github.com/kushalbhatt08/Power-BI-Projects.git
