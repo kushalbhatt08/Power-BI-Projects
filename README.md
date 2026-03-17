@@ -10,10 +10,11 @@ Project	Description
 🛒 Walmart Store Sales Analysis	Retail sales analysis covering store performance, seasonal trends, and revenue forecasting
 ---
 🛠️ Tools & Technologies
-Power BI Desktop — Dashboard development & visualization
-DAX (Data Analysis Expressions) — Calculated measures and KPIs
-Power Query (M Language) — Data transformation and cleaning
-Excel / CSV — Data sources and raw datasets
+Tool	Purpose
+Power BI Desktop	Dashboard development & visualization
+DAX (Data Analysis Expressions)	Calculated measures and KPIs
+Power Query (M Language)	Data transformation and cleaning
+Excel / CSV	Data sources and raw datasets
 ---
 🎯 Key Skills Demonstrated
 ✅ Data Cleaning & Transformation
@@ -23,10 +24,10 @@ Excel / CSV — Data sources and raw datasets
 ✅ Real-World Dataset Analysis
 ---
 🚀 How to Use
-Clone or download this repository
+Clone or download this repository:
 ```bash
-   git clone https://github.com/kushalbhatt08/Power-BI-Projects.git
-   ```
+git clone https://github.com/kushalbhatt08/Power-BI-Projects.git
+```
 Open any `.pbix` file using Power BI Desktop
 Explore the dashboards and interact with the visuals
 ---
